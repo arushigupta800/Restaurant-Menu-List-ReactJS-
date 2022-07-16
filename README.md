@@ -1,4 +1,7 @@
 # Restaurant-Menu-List-ReactJS
+
+•	 Language used : HTML, CSS and ReactJS 
+
 • Created a fully responsive Restaurant Menu List Website wherein the user can take a look at the entire menu of the restaurant.
 
 
